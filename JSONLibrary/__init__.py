@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from .JSONLibraryKeywords import JSONLibraryKeywords
-from .version import VERSION
+from JSONLibrary.JSONLibraryKeywords import JSONLibraryKeywords
+from JSONLibrary.version import VERSION
 
 __author__ = 'Traitanit Huangsri'
 __email__ = 'traitanit.hua@gmail.com'
